@@ -1,5 +1,6 @@
 
 sorce code == http://www.webslesson.info/2016/11/php-ajax-crud-insert-update-delete-with-stored-procedure.html
+releted link == http://www.webslesson.info/2017/05/live-table-data-edit-delete-using-tabledit-plugin-in-php.html
 
 <html>  
       <head>  
