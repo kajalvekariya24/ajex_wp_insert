@@ -1,3 +1,6 @@
+
+sorce code == http://www.webslesson.info/2016/11/php-ajax-crud-insert-update-delete-with-stored-procedure.html
+
 <html>  
       <head>  
            <title>PHP Ajax Crud - Insert Update Delete with Stored Procedure</title>  
